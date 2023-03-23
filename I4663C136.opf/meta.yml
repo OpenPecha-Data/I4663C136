@@ -1,0 +1,46 @@
+id: I4663C136
+ocr_import_info:
+  timestamp: '2023-03-23T08:52:38.398002+00:00'
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.8
+  sponsor: BDRC
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.2
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-03-23 08:58:05.800889+00:00
+last_modified: 2023-03-23 08:58:05.800896+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1ER114
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1ER114
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: Samantabhadra Guro Mukhāgamanāma
+  languages:
+  - new
+  author: རྫ་དཔལ་སྤྲུལ་ཨོ་རྒྱན་འཇིགས་མེད་ཆོས་ཀྱི་དབང་པོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.8481086442930502
+  ocr_word_median_confidence_index: 0.8927544350000001
+bases:
+  I1ER767:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1ER767
+      total_pages: 274
+      volume_number: 1
+      volume_pages_bdrc_intro: 0
+    order: 1
+    base_file: I1ER767.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.8927544350000001
+      ocr_word_mean_confidence_index: 0.8481086442930502
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
